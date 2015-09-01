@@ -1,0 +1,19 @@
+@media (min-width: 1200px) {
+  .container {
+    width: 750px;
+  }
+}
+
+#logo {
+  margin-top: 20px;  
+  margin-bottom: 50px;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 750px;
+  }
+  #logo {
+    margin-top: 150px;
+  }
+}

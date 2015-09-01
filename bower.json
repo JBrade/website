@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "Website Juventude Brade",
+  "main": "app/index.html",
+  "authors": [
+    "Darlan Damasio <darlan@damasio34.com>"
+  ],
+  "license": "MIT",
+  "homepage": "www.juventudebrade.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
